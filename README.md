@@ -2,7 +2,7 @@ OK so you might think this is insane but when you delve into the physics and mat
 
 Some clarifications:
 
-If you think the radiative maths vents add extra complexity to actually get the waves out of the block, then you need to learn that geometry is indeed your friend, because you can just make sure that they are 8 degrees to the surface. If this alone is insufficient then micro-prisms or serrated facets could be used at the ends of these waves to ensure a clean exit.
+If you think the radiative maths vents add extra complexity to actually get the waves out of the block, then you need to learn that geometry is indeed your friend, because you can just make sure that they are 8 degrees to the surface. If this alone is insufficient then micro-prisms or serrated facets could be used at the ends of these waveguides to ensure a clean exit.
 
 I mentioned the a-thermal polymers purely because there have been a lot of advancements in this area recently so wanted to make sure no one could just backfill with a new polymer and call it a "novel design" for patent purposes. Obviously at present using these would just be a recipe for delamination and cracking.
 
