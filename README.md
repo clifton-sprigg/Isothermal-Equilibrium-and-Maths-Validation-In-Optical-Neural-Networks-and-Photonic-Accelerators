@@ -28,6 +28,8 @@ First I'm not suggesting that a thermal jacket will miraculously get rid of loca
 
 Whilst it sounds counter intuitive to just "dump" data, when you factor in that this data packet can be resent immediately, whilst any data it goes with is held, and dealt with at a hardware level when an error is detected this is many many times faster than electronically checking every single output. (I'm not trying to make perfect, I'm just trying to make a new set of compromises for a new medium rather than applying the same compromises made in the 1950's for electronic computing.)
 
+Please don't get hung up on the idea of UV lithography just because I've mentioned silicon as a potential candidate as femtosecond laser direct writing gets around the current problems with manufacturing all those vias, at an increase to production costs that I think are worth it.
+
 Finally it is obvious that this concept makes a chip physically thicker however for the Speed and power usage improvements this trade off is worth while. (It also allows the industry to do their favourite thing and optimise the geometry to make it smaller and eek out those 2% gains they've so loved for the last decade.)
 
 
