@@ -26,6 +26,8 @@ Further clarifications (just so my ideas don't get misrepresented):
 
 First I'm not suggesting that a thermal jacket will miraculously get rid of localised thermal spikes but rather it will keep a baseline clamped reducing the ΔT, thus making the substrate many factors more stable than present designs. (I'm not trying to create perfect, just better.)
 
+To start with don't immediately expect the gains I have suggested but even 5 layers is better than present. The potential of replacing microheaters with electro-optic phase shifters would reduce delta T almost entirely which would allow for that 20 layer theoretical maximum (just please ignore the industries terahertz claims as that is useless unless they can save light, otherwise they are trapped to the speed of electronics anyway due to the optical electrical boundaries.)
+
 Whilst it sounds counter intuitive to just "dump" data, when you factor in that this data packet can be resent immediately, whilst any data it goes with is held, and dealt with at a hardware level when an error is detected this is many many times faster than electronically checking every single output. (I'm not trying to make perfect, I'm just trying to make a new set of compromises for a new medium rather than applying the same compromises made in the 1950's for electronic computing.)
 
 Please don't get hung up on the idea of UV lithography just because I've mentioned silicon as a potential candidate as femtosecond laser direct writing gets around the current problems with manufacturing all those vias, at an increase to production costs that I think are worth it.
