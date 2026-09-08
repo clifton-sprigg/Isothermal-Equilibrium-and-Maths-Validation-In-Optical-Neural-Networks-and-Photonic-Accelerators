@@ -12,7 +12,7 @@ The active heating regime mentioned is a pointless waste of time! The reason it 
 
 For the maths verification I mention you can "dump the current calculation as corrupt before it even arrives at the next calculation." I did not mean this to be extra "light speed switches" or anything at all more complex than not reading the data when it arrives as I didn't know those switches even existed!
 
-The "zero cost implementation" is based on the fact they redesign and replace chips so regularly it would just be part of that process thus no additional costs. 
+The "zero cost implementation" was based on the fact they redesign and replace chips so regularly it would just be part of that process thus no additional costs. However as this would be best implemented with femto-second laser direct writing it would come at a fairly significant cost of upgrading fabrication plants.
 
 
 Things not noted:
