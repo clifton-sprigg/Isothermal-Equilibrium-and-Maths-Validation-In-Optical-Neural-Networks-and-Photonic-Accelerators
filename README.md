@@ -34,6 +34,8 @@ Please don't get hung up on the idea of UV lithography just because I've mention
 
 Finally it is obvious that this concept makes a chip physically thicker however for the Speed and power usage improvements this trade off is worth while. (It also allows the industry to do their favourite thing and optimise the geometry to make it smaller and eek out those 2% gains they've so loved for the last decade.)
 
+Also if you really want to embrace photonics you should also embrace isometric geometry as this will ensure not only equal length of waveguides but also number and radii of of corners making the light truly deterministic not just in time of flight but also in total power loss during flight.
+
 
 If you think I'm insane please note, I'm not the one who came up with the idea to put heaters and absorbers in the middle of the chip then try to keep everything cool thus destroying lights determinism. That is all on the industry and is what they are doing right now.
 
