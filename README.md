@@ -34,7 +34,7 @@ Please don't get hung up on the idea of UV lithography just because I've mention
 
 Finally it is obvious that this concept makes a chip physically thicker however for the Speed and power usage improvements this trade off is worth while. (It also allows the industry to do their favourite thing and optimise the geometry to make it smaller and eek out those 2% gains they've so loved for the last decade.)
 
-Also if you really want to embrace photonics you should also embrace isometric geometry as this will ensure not only equal length of waveguides but also number and radii of of corners making the light truly deterministic not just in time of flight but also in total power loss during flight.
+Also if you really want to embrace photonics you should also embrace isometric geometry as this will ensure not only equal length of waveguides but also number and radii of of corners making the light truly deterministic not just in time of flight but also in total power loss during flight. To do this realistically a monolithic glass block would be the best option.
 
 
 If you think I'm insane please note, I'm not the one who came up with the idea to put heaters and absorbers in the middle of the chip then try to keep everything cool thus destroying lights determinism. That is all on the industry and is what they are doing right now.
@@ -43,3 +43,5 @@ Please stop treating photons like they are electrons, they are not! You cannot i
 
 
 (Note: I, (Graham Clifton-Sprigg), the author hereby dedicate this entire work, including all architectural concepts, geometric wave-routing logic, thermal management loops, and real time error checking to the public domain under the Creative Commons CC0 1.0 Universal license. It is published openly to establish immediate prior art and ensure this technology remains free and un-patentable by any entity. And once again this is the concepts herein contained and in no way linked to Materials or specific geometries. So stop being devious, adding in 1 minor little thing doesn't make this your own "novel" concept!)
+
+(P.S If big tech ever find this please don't just wrap the photonics in the electronics then wonder why you can't keep the electronics cool enough! The very idea here is to create seperate environments so each medium can operate at it's best.)
